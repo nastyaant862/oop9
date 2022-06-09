@@ -140,7 +140,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="oop9 nasled.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="oop9 nasled.h" />
